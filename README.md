@@ -5,4 +5,4 @@ https://drive.google.com/drive/folders/1qZreprr3RAx-cwGWk37wvKT8i0dPqrpG?usp=sha
 
 Link of Tableau public workbook - 
 
-Kindly open "Covid19Analysis_and_FbProphet.ipynb" in google colab to view the graphs
+Kindly open "Covid_19_analysis.ipynb" in google colab to view the graphs
